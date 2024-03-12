@@ -185,4 +185,5 @@ const Dental = [
     prevision: "ISAPRE"},
   ];
 
+mostrarTablas();
 console.log(Radiologia, Traumatologia, Dental)
